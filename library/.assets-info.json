@@ -1,0 +1,181 @@
+{
+  "version": "1.0.1",
+  "map": {
+    "scripts": {
+      "time": 1792590823437.306,
+      "uuid": "e644434c-f736-4297-ba22-b31455bf514b"
+    },
+    "scripts\\core": {
+      "time": 1792590823422.2903,
+      "uuid": "06e0ebc1-d15d-4011-9b0f-0f747c0f25a9"
+    },
+    "scripts\\data": {
+      "time": 1792590823434.8013,
+      "uuid": "67240f64-2867-4fad-8c66-aa09fe6dc83a"
+    },
+    "scripts\\ui": {
+      "time": 1792590823468.2034,
+      "uuid": "7f528ed2-9b61-4d7f-b4b3-5b0e17757a76"
+    },
+    "scripts\\core\\Battle.ts": {
+      "time": 1792588684123.2932,
+      "uuid": "5d599260-292e-4181-9122-f95090787a2d"
+    },
+    "scripts\\core\\GameManager.ts": {
+      "time": 1792651066290.2393,
+      "uuid": "90f9b747-76c8-4ff6-b711-c01f00b36d79"
+    },
+    "scripts\\core\\Models.ts": {
+      "time": 1792574704141.7334,
+      "uuid": "d857d7eb-4bf8-4d83-9775-5b37186581f6"
+    },
+    "scripts\\core\\Systems.ts": {
+      "time": 1792650729874.5354,
+      "uuid": "6724505a-c22d-4b36-94c5-b25448766e85"
+    },
+    "scripts\\data\\GameConfig.ts": {
+      "time": 1792650701269.6584,
+      "uuid": "b1047807-d262-48e9-9e48-27404bc8532e"
+    },
+    "scripts\\data\\GameTypes.ts": {
+      "time": 1792587165803.6096,
+      "uuid": "ef2751a6-8ed6-4279-bfc9-49170ad57c61"
+    },
+    "scripts\\ui\\BoardView.ts": {
+      "time": 1792586947291.6213,
+      "uuid": "02e1680b-e583-4a26-92cd-d02882d6877b"
+    },
+    "scripts\\ui\\Dialogs.ts": {
+      "time": 1792575093626.154,
+      "uuid": "390bfe55-b4e3-4b73-ae77-482a95fedc16"
+    },
+    "scripts\\ui\\GameBoot.ts": {
+      "time": 1792650933612.8044,
+      "uuid": "a0c0c1e5-1111-4000-8000-000000000001"
+    },
+    "scripts\\ui\\GameView.ts": {
+      "time": 1792650993374.983,
+      "uuid": "cd79bc79-400d-46bd-9c54-a403bae9b90a"
+    },
+    "scripts\\ui\\PanelViews.ts": {
+      "time": 1792651026136.6743,
+      "uuid": "339777be-f5b9-4fbd-ae10-218a2ddbfeef"
+    },
+    "scripts\\ui\\UIFactory.ts": {
+      "time": 1792591637178.8945,
+      "uuid": "2080543c-5ba9-467a-b218-43c0db2c5ac8"
+    },
+    "scripts.meta": {
+      "time": 1792575956067.3496
+    },
+    "scripts\\core.meta": {
+      "time": 1792575956068.3496
+    },
+    "scripts\\data.meta": {
+      "time": 1792575956069.084
+    },
+    "scripts\\ui.meta": {
+      "time": 1792575956070.0806
+    },
+    "scripts\\core\\Battle.ts.meta": {
+      "time": 1792575956074.1052
+    },
+    "scripts\\core\\GameManager.ts.meta": {
+      "time": 1792575956076.8425
+    },
+    "scripts\\core\\Models.ts.meta": {
+      "time": 1792575956078.8433
+    },
+    "scripts\\core\\Systems.ts.meta": {
+      "time": 1792575956079.8425
+    },
+    "scripts\\data\\GameConfig.ts.meta": {
+      "time": 1792575956080.8442
+    },
+    "scripts\\data\\GameTypes.ts.meta": {
+      "time": 1792575956083.8481
+    },
+    "scripts\\ui\\BoardView.ts.meta": {
+      "time": 1792575956086.4236
+    },
+    "scripts\\ui\\Dialogs.ts.meta": {
+      "time": 1792575956089.4153
+    },
+    "scripts\\ui\\GameBoot.ts.meta": {
+      "time": 1792576358014.2898
+    },
+    "scripts\\ui\\GameView.ts.meta": {
+      "time": 1792575956091.5022
+    },
+    "scripts\\ui\\PanelViews.ts.meta": {
+      "time": 1792575956094.4978
+    },
+    "scripts\\ui\\UIFactory.ts.meta": {
+      "time": 1792575956095.4983
+    },
+    "Scene.meta": {
+      "time": 1792576436788.3254
+    },
+    "Scene": {
+      "time": 1792590823389.266,
+      "uuid": "d1676fd3-15ff-41f8-9a12-2956409fe133"
+    },
+    "Scene\\Main.scene.meta": {
+      "time": 1792576453273.8713
+    },
+    "Scene\\Main.scene": {
+      "time": 1792651648948.956,
+      "uuid": "bd52dfe6-acc3-4ea5-9a77-548f3237d17d"
+    },
+    "resources": {
+      "time": 1792592613520.3857,
+      "uuid": "16c0fdd6-0c76-4241-8e7a-15bad25d7ba5"
+    },
+    "resources\\textures": {
+      "time": 1792592617677.9097,
+      "uuid": "04e4f5d8-3402-4f2a-9cc1-e5c171753556"
+    },
+    "resources.meta": {
+      "time": 1792592613534.6528
+    },
+    "resources\\textures.meta": {
+      "time": 1792592613536.653
+    },
+    "resources\\textures\\bg_battle.jpg": {
+      "time": 1792591534885.6533,
+      "uuid": "b0a77cc5-1083-4698-9da8-63070546fbe7"
+    },
+    "resources\\textures\\piece_0.jpg": {
+      "time": 1792591530296.407,
+      "uuid": "43b1f100-6d52-4aac-9189-0c40cf6fcce4"
+    },
+    "resources\\textures\\piece_1.jpg": {
+      "time": 1792591538722.8687,
+      "uuid": "124da122-908b-48bd-898a-ed186392958f"
+    },
+    "resources\\textures\\piece_2.jpg": {
+      "time": 1792591540394.1394,
+      "uuid": "b9836791-f317-4207-bee8-b1c1f3889e1d"
+    },
+    "resources\\textures\\piece_3.jpg": {
+      "time": 1792591535315.9587,
+      "uuid": "701d2cd4-1137-4a8a-bc4d-7ad54d67e214"
+    },
+    "resources\\textures\\bg_battle.jpg.meta": {
+      "time": 1792651650063.7742
+    },
+    "resources\\textures\\piece_1.jpg.meta": {
+      "time": 1792651650067.7751
+    },
+    "resources\\textures\\piece_3.jpg.meta": {
+      "time": 1792651650072.0042
+    },
+    "resources\\textures\\piece_2.jpg.meta": {
+      "time": 1792651650069.776
+    },
+    "resources\\textures\\piece_0.jpg.meta": {
+      "time": 1792651650065.7751
+    }
+  },
+  "missing": {}
+}

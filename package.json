@@ -1,0 +1,9 @@
+{
+  "name": "auto-chess",
+  "version": "1.0.0",
+  "uuid": "a0c0c1e5-0000-4000-8000-000000000001",
+  "type": "2d",
+  "creator": {
+    "version": "3.8.8"
+  }
+}

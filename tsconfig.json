@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "strict": false,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "cc": ["./temp/declarations/cc.d.ts"],
+      "cc/env": ["./temp/declarations/cc.env.d.ts"]
+    }
+  },
+  "include": ["assets/**/*.ts"]
+}

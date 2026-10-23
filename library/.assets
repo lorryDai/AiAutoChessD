@@ -1,0 +1,32 @@
+{
+    "version": "1.0.1",
+    "data": {
+        "paths": [
+            "resources",
+            "Scene",
+            "scripts",
+            "resources\\textures",
+            "scripts\\core",
+            "scripts\\data",
+            "scripts\\ui",
+            "scripts\\core\\Battle.ts",
+            "scripts\\core\\GameManager.ts",
+            "scripts\\core\\Models.ts",
+            "scripts\\core\\Systems.ts",
+            "scripts\\data\\GameConfig.ts",
+            "scripts\\data\\GameTypes.ts",
+            "scripts\\ui\\BoardView.ts",
+            "scripts\\ui\\Dialogs.ts",
+            "scripts\\ui\\GameBoot.ts",
+            "scripts\\ui\\GameView.ts",
+            "scripts\\ui\\PanelViews.ts",
+            "scripts\\ui\\UIFactory.ts",
+            "Scene\\Main.scene",
+            "resources\\textures\\bg_battle.jpg",
+            "resources\\textures\\piece_0.jpg",
+            "resources\\textures\\piece_1.jpg",
+            "resources\\textures\\piece_2.jpg",
+            "resources\\textures\\piece_3.jpg"
+        ]
+    }
+}

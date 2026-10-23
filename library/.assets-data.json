@@ -1,0 +1,275 @@
+{
+  "5d599260-292e-4181-9122-f95090787a2d": {
+    "url": "db://assets/scripts/core/Battle.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "e644434c-f736-4297-ba22-b31455bf514b": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "06e0ebc1-d15d-4011-9b0f-0f747c0f25a9": {
+    "url": "db://assets/scripts/core",
+    "value": {},
+    "versionCode": 1
+  },
+  "67240f64-2867-4fad-8c66-aa09fe6dc83a": {
+    "url": "db://assets/scripts/data",
+    "value": {},
+    "versionCode": 1
+  },
+  "7f528ed2-9b61-4d7f-b4b3-5b0e17757a76": {
+    "url": "db://assets/scripts/ui",
+    "value": {},
+    "versionCode": 1
+  },
+  "90f9b747-76c8-4ff6-b711-c01f00b36d79": {
+    "url": "db://assets/scripts/core/GameManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "d857d7eb-4bf8-4d83-9775-5b37186581f6": {
+    "url": "db://assets/scripts/core/Models.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "6724505a-c22d-4b36-94c5-b25448766e85": {
+    "url": "db://assets/scripts/core/Systems.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "b1047807-d262-48e9-9e48-27404bc8532e": {
+    "url": "db://assets/scripts/data/GameConfig.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ef2751a6-8ed6-4279-bfc9-49170ad57c61": {
+    "url": "db://assets/scripts/data/GameTypes.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "02e1680b-e583-4a26-92cd-d02882d6877b": {
+    "url": "db://assets/scripts/ui/BoardView.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "390bfe55-b4e3-4b73-ae77-482a95fedc16": {
+    "url": "db://assets/scripts/ui/Dialogs.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "6a5a4007-e6ad-4cfb-b34e-03be7ef8e528": {
+    "url": "db://assets/scripts/ui/GameBoot.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "cd79bc79-400d-46bd-9c54-a403bae9b90a": {
+    "url": "db://assets/scripts/ui/GameView.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "339777be-f5b9-4fbd-ae10-218a2ddbfeef": {
+    "url": "db://assets/scripts/ui/PanelViews.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2080543c-5ba9-467a-b218-43c0db2c5ac8": {
+    "url": "db://assets/scripts/ui/UIFactory.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "a0c0c1e5-1111-4000-8000-000000000001": {
+    "url": "db://assets/scripts/ui/GameBoot.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "d1676fd3-15ff-41f8-9a12-2956409fe133": {
+    "url": "db://assets/Scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "bd52dfe6-acc3-4ea5-9a77-548f3237d17d": {
+    "url": "db://assets/Scene/Main.scene",
+    "value": {
+      "depends": [
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "a0c0c1e5-1111-4000-8000-000000000001"
+      ]
+    },
+    "versionCode": 2
+  },
+  "16c0fdd6-0c76-4241-8e7a-15bad25d7ba5": {
+    "url": "db://assets/resources",
+    "value": {},
+    "versionCode": 1
+  },
+  "04e4f5d8-3402-4f2a-9cc1-e5c171753556": {
+    "url": "db://assets/resources/textures",
+    "value": {},
+    "versionCode": 1
+  },
+  "c94af663-de81-46ab-b548-12b6e0c0603c": {
+    "url": "db://assets/resources/textures/bg_battle.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "83d35a59-f88f-4f60-a541-0c43498236fb": {
+    "url": "db://assets/resources/textures/piece_0.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "d6242ae4-0814-4034-946e-b82fcb9efb97": {
+    "url": "db://assets/resources/textures/piece_1.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "26b3e7a6-7a31-4302-a1d0-cd5c56afa423": {
+    "url": "db://assets/resources/textures/piece_2.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "831d615f-2764-4922-abdd-12c127165226": {
+    "url": "db://assets/resources/textures/piece_3.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c94af663-de81-46ab-b548-12b6e0c0603c@6c48a": {
+    "url": "db://assets/resources/textures/bg_battle.jpg@6c48a",
+    "value": {
+      "depends": [
+        "c94af663-de81-46ab-b548-12b6e0c0603c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d6242ae4-0814-4034-946e-b82fcb9efb97@6c48a": {
+    "url": "db://assets/resources/textures/piece_1.jpg@6c48a",
+    "value": {
+      "depends": [
+        "d6242ae4-0814-4034-946e-b82fcb9efb97"
+      ]
+    },
+    "versionCode": 1
+  },
+  "831d615f-2764-4922-abdd-12c127165226@6c48a": {
+    "url": "db://assets/resources/textures/piece_3.jpg@6c48a",
+    "value": {
+      "depends": [
+        "831d615f-2764-4922-abdd-12c127165226"
+      ]
+    },
+    "versionCode": 1
+  },
+  "26b3e7a6-7a31-4302-a1d0-cd5c56afa423@6c48a": {
+    "url": "db://assets/resources/textures/piece_2.jpg@6c48a",
+    "value": {
+      "depends": [
+        "26b3e7a6-7a31-4302-a1d0-cd5c56afa423"
+      ]
+    },
+    "versionCode": 1
+  },
+  "83d35a59-f88f-4f60-a541-0c43498236fb@6c48a": {
+    "url": "db://assets/resources/textures/piece_0.jpg@6c48a",
+    "value": {
+      "depends": [
+        "83d35a59-f88f-4f60-a541-0c43498236fb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b0a77cc5-1083-4698-9da8-63070546fbe7": {
+    "url": "db://assets/resources/textures/bg_battle.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "43b1f100-6d52-4aac-9189-0c40cf6fcce4": {
+    "url": "db://assets/resources/textures/piece_0.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "124da122-908b-48bd-898a-ed186392958f": {
+    "url": "db://assets/resources/textures/piece_1.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b9836791-f317-4207-bee8-b1c1f3889e1d": {
+    "url": "db://assets/resources/textures/piece_2.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "701d2cd4-1137-4a8a-bc4d-7ad54d67e214": {
+    "url": "db://assets/resources/textures/piece_3.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "43b1f100-6d52-4aac-9189-0c40cf6fcce4@6c48a": {
+    "url": "db://assets/resources/textures/piece_0.jpg@6c48a",
+    "value": {
+      "depends": [
+        "43b1f100-6d52-4aac-9189-0c40cf6fcce4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b9836791-f317-4207-bee8-b1c1f3889e1d@6c48a": {
+    "url": "db://assets/resources/textures/piece_2.jpg@6c48a",
+    "value": {
+      "depends": [
+        "b9836791-f317-4207-bee8-b1c1f3889e1d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "701d2cd4-1137-4a8a-bc4d-7ad54d67e214@6c48a": {
+    "url": "db://assets/resources/textures/piece_3.jpg@6c48a",
+    "value": {
+      "depends": [
+        "701d2cd4-1137-4a8a-bc4d-7ad54d67e214"
+      ]
+    },
+    "versionCode": 1
+  },
+  "124da122-908b-48bd-898a-ed186392958f@6c48a": {
+    "url": "db://assets/resources/textures/piece_1.jpg@6c48a",
+    "value": {
+      "depends": [
+        "124da122-908b-48bd-898a-ed186392958f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b0a77cc5-1083-4698-9da8-63070546fbe7@6c48a": {
+    "url": "db://assets/resources/textures/bg_battle.jpg@6c48a",
+    "value": {
+      "depends": [
+        "b0a77cc5-1083-4698-9da8-63070546fbe7"
+      ]
+    },
+    "versionCode": 1
+  }
+}
